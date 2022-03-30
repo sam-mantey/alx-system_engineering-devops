@@ -7,3 +7,5 @@ This lists the content of a current directory
 2-bring_me_home
 this changes the current working directory to the home directory
 
+3-listfiles
+List the files in a current directory 
