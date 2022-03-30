@@ -13,3 +13,5 @@ List the files in a current directory
 4-listmorefiles
 List files including hidden ones in long format
 
+5-lsitfilesdigitonlyThis lists in long format all files including 
+hidden files with users and group IDs displayed numerically.
