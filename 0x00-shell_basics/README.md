@@ -21,3 +21,6 @@ Creating a directory
 
 7-movethatfile
 Moving files
+
+8-firstdelete
+Deleting files 
