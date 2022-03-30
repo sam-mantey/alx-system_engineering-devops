@@ -19,3 +19,5 @@ hidden files with users and group IDs displayed numerically.
 6-firstdirectory
 Creating a directory
 
+7-movethatfile
+Moving files
