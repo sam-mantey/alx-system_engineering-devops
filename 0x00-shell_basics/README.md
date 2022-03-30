@@ -8,4 +8,8 @@ This lists the content of a current directory
 this changes the current working directory to the home directory
 
 3-listfiles
-List the files in a current directory 
+List the files in a current directory
+
+4-listmorefiles
+List files including hidden ones in long format
+
