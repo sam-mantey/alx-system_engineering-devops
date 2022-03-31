@@ -16,3 +16,6 @@ This creates an empty file
 5-execute
 Giving owner acces to execute a file 
 
+6-multiple_permissions 
+Adding permissions for groups and other users
+
