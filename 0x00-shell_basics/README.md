@@ -27,3 +27,7 @@ Deleting files
 
 9-firstdirdeletion
 Deleting directories
+ 
+10-back 
+Movig to previous directory
+
