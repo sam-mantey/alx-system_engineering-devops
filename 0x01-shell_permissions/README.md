@@ -13,3 +13,6 @@ This changes the ownership of a file
 4-empty
 This creates an empty file 
 
+5-execute
+Giving owner acces to execute a file 
+
