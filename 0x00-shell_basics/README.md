@@ -23,4 +23,7 @@ Creating a directory
 Moving files
 
 8-firstdelete
-Deleting files 
+Deleting files
+
+9-firstdirdeletion
+Deleting directories
