@@ -21,3 +21,6 @@ Creating a flie containg a text
 
 8-cwd_state
 Writing the results of a command into another file 
+
+9-duplicate_last_line
+duplicating the last line of a file 
