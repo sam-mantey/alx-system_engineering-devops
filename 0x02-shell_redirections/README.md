@@ -12,3 +12,6 @@ Displays the last three lines of a file
 
 5-firstlines
 Displays the first 10 lines of a file
+
+6-third_line
+Displaying the contents of a specific line in the file 
