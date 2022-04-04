@@ -6,3 +6,6 @@ Displaying the content of a file
 
 3-twofiles
 Displaying the contents of two files
+
+4-lastlines 
+Displays the last three lines of a file
