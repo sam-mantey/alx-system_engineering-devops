@@ -9,3 +9,6 @@ Displaying the contents of two files
 
 4-lastlines 
 Displays the last three lines of a file
+
+5-firstlines
+Displays the first 10 lines of a file
