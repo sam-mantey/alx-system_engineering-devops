@@ -14,4 +14,7 @@ Displays the last three lines of a file
 Displays the first 10 lines of a file
 
 6-third_line
-Displaying the contents of a specific line in the file 
+Displaying the contents of a specific line in the file
+
+7-file
+Creating a flie containg a text
