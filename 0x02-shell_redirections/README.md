@@ -18,3 +18,6 @@ Displaying the contents of a specific line in the file
 
 7-file
 Creating a flie containg a text
+
+8-cwd_state
+Writing the results of a command into another file 
